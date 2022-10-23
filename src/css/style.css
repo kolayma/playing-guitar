@@ -378,6 +378,9 @@ table {
   height: 69px;
   align-items: center;
 }
+.main-section__logo {
+  width: 134px;
+}
 
 .nav-menu__list {
   display: flex;
@@ -389,4 +392,10 @@ table {
 }
 .nav-menu__list-item:last-child {
   margin-right: 0;
+}
+
+.left-wrapper__rectangle-blue {
+  width: 565px;
+  height: 220px;
+  background: #5290EA;
 }/*# sourceMappingURL=style.css.map */
